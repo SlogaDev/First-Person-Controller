@@ -2,4 +2,5 @@
 This is the character controller for my project The Last Mageknight
 
 ![alt-text](https://i.imgur.com/iaPoFom.png)
-This is an amalgamation of forum posts and tutorials online.
+
+This project is my first game and essentially an amalgamation of forum posts and tutorials online.
